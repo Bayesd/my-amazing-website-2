@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "flask-hemsida",
+  "private_key_id": "1f2c2f755ca4c28258873ef95ebdf045d86bcdc3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqMpR9vg9Cp7dj\nGWq3OLb9GSysKkBJxhrX7vcD3MPwjK838yXz6JyLjkbDPNp3586xd7Dkb4EzTW5o\n6DrG5BibOzMrs0haNOI6E3MLqH2j4LskBnFS5ku2r14wbfccvp87aLKu0OQMK6Q4\nzKr2KzZruInuc0hyJnb3ko1jvBZiRWz58zXre7kZJBHJSxzs6v9u1RHYu6mON94y\nO/krCwFb6QbqiCIiU8ZXOA6IxYZG0OxxK+FgpH4E3fyJgxqhzV0zf7zRJAbTnnAG\njc42VU1PJ1pyO1XUa6NLeHZQaw5zl9vBG/Zy3AkASp3FBHf8gS2VVXxvXbnhkk6n\nYMui4WdxAgMBAAECggEAAKlDpGo2Z8Ovb0yFx2jXMfKE47WItgCo0aMiOIfSBww0\n3g3Gw8TPXuEFno3AKrkVN3rhWz6hQBBfJNWW7N2tlTGZe33HaS2AneMkQXmJ5QOv\n4zrwxvarRdSc+nX8gMZIzhOt2ToC6/0unSRGaCbQ0xuB0nhS+4aLIPkW+lOciD/+\nxEkx8Pm/xVUGu6fZadSr/XitFVINJlaP3ZVuBgsXYa1Iq/dnXktd0n71XsYNNQ2i\ntNlS2Haee4IJyLkRQBBZrpEuFbjY1KHV2CaY33ugdslzxVURO9IS89o3PTVyLoHv\nL517vcBsXRCAAa71qtCwiGtGLwjn11ntTtGApSknxQKBgQDlvyV3FUJFhxThmcyI\nbtsjEVpa76E+US1oGr56DRUM8nktWqng+EiJdVhfBXLDJ1eWGqtbKzmn/2uKjqNS\nIGVzWTbddGmw0HigyMMfY3s6VUv6shnRJ9vQOkfgoJzAAbxve3qUnvmkXJsxYVZd\nHdyXTUQwoQzaALCSoMvshZT8UwKBgQC9pWzJucdH2ada7/b4KE7ItubzpWX2NXzi\nIw7iYwYEiCOvR8xsGdICGTIR60UbTOElL0HjIT4LllGSzF5NTOsVxoO+E/+P2XQp\nWRl9eUMaACzcpiaUePjTV5tG1Lj/3IZDf+Ess757RoMcKs2GrzoObhF+kxpM0Tpc\nJ/QhAvQ0qwKBgF4YCCcabNb++P1guRUTmepl3ASsafSU2Kzvbx2bqAhyclCx9itu\nZH7vsW7RU2w7+7I9X/rp3CZDBO9tddRX8lTosADJAdRpvU3Ui52aZ8i/UGvvb4Vq\n9qr0g6WrAifdTii2gMDHz2SSjPkPbYibh1HsUkY8X4AVkjurYXmQSDGDAoGAfJeh\n0SXsdpfYCzZ72q0glV0Ufh27zvV1Blxh+vlziqamSxGwi5SrFBXZf0xCKp1njTZu\n4vmD+bjX/smlasON7tBs3QPmcms6la+jv3tbSkmzL4M49XJEhxSXPwGiSPZofxAU\nr3mnOvYoTOkR/dpBGhnWBIJAVRdgcAsPqGB4b+ECgYEAxITZHCkOSRp3lGdsDUq6\nS9pH+COHr25Of3bm6K0LbXAXDNIX2cuao0yhXerHAJvfKAF1Wo6GqEEH7ie+TYuO\npUKylTNNmC/N6mkqGhrLKtFEDX2d0FwzfZFPTdlFjnlbtUYxhSxAWhUQbpvOgecT\nKrmsFmesFlQC15mezWjarNY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "service@flask-hemsida.iam.gserviceaccount.com",
+  "client_id": "116382703395315876838",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service%40flask-hemsida.iam.gserviceaccount.com"
+}
